@@ -1,3 +1,4 @@
+export 'products/edit_product_screen.dart';
 export 'products/products_overview_screen.dart';
 export 'products/product_detail_screen.dart';
 export 'products/user_products_screen.dart';
